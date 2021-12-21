@@ -1,0 +1,10 @@
+name = "cfgio"
+version = "0.0.1"
+
+[library]
+source-dir="src"
+
+[[ test ]]
+name="runTests"
+source-dir="tests"
+main="test_intpl.f90"
